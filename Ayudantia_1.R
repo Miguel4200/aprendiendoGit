@@ -12,7 +12,7 @@ setwd()
 "Hola mundo!"
 #Fecha
 "2021-03-04"
-#Lógico
+#LÃ³gico
 TRUE
 FALSE
 #Factor
@@ -65,8 +65,8 @@ factor(c("hombre","mujer","mujer"))
 2!=1
 2!=2
 
-  #Operadores lógicos
-#x ó y 
+  #Operadores lÃ³gicos
+#x Ã³ y 
 4|5 > 3
 
 #x y y
@@ -77,16 +77,16 @@ factor(c("hombre","mujer","mujer"))
 !(6>5)
 
 
-  ###Operadores de asignación
+  ###Operadores de asignaciÃ³n
 x<-1
 y=2
 
 #Vectores
-#Vector númerico
+#Vector nÃºmerico
 x<-c(1,2,3,4)
 #Vector caracter
 y<-c("mujer", "hombre")
-#Vector lógico
+#Vector lÃ³gico
 z<-c(TRUE,FALSE)
 #Vector combinado
 w<-c(1,"mujer",TRUE)
@@ -97,4 +97,5 @@ x<-c(1:10)
 x<-x*2
 
 mano<-runif(5,0,1)
-
+#hacer pequeÃ±as modificacones usando github
+normal_distr<-pnorm(10,0,1)
