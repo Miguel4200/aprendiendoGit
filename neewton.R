@@ -51,3 +51,7 @@ newton(1,1,20)
 n_v<-c(1,6)
 n_v_cuad<-n_v*n_v
 n_v_raiz<-n_v<-sqrt(n_v)
+
+##prueba con una rama o branch
+
+n_v<-3*n_v_raiz
