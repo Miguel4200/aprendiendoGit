@@ -20,7 +20,7 @@ Newton <- function(varinicial, iteraciones){
     print (x)
     varinicial<-x
     if (f(x)==0){  #si la raiz es igual a 0 se detiene el codigo con el comando break
-      print("Se encontró la raíz antes")
+      print("Se encontrÃ³ la raÃ­z antes")
       break
     }
   }
@@ -50,3 +50,4 @@ newton(1,1,20)
 
 n_v<-c(1,6)
 n_v_cuad<-n_v*n_v
+n_v_raiz<-n_v<-sqrt(n_v)
