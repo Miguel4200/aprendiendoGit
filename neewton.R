@@ -51,3 +51,14 @@ newton(1,1,20)
 n_v<-c(1,6)
 n_v_cuad<-n_v*n_v
 n_v_raiz<-n_v<-sqrt(n_v)
+
+
+
+
+
+
+
+
+#trabajando en main rama
+cambio<-data.frame("Dios"=c("zeus","Ades"),"poder"=c(10,9))
+
