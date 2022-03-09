@@ -52,6 +52,7 @@ n_v<-c(1,6)
 n_v_cuad<-n_v*n_v
 n_v_raiz<-n_v<-sqrt(n_v)
 
+#<<<<<<< HEAD
 
 
 
@@ -62,3 +63,10 @@ n_v_raiz<-n_v<-sqrt(n_v)
 #trabajando en main rama
 cambio<-data.frame("Dios"=c("zeus","Ades"),"poder"=c(10,9))
 
+#=======
+##prueba con una rama o branch
+
+n_v<-3*n_v_raiz
+#>>>>>>> ramitabro
+
+#unio rama main y rama ramitabro en esencia
